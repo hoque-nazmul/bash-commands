@@ -1,13 +1,13 @@
 **List of contents**
 
-1.  [General commands](#general-commands)
-2.  [Bash/Terminal related commands](#bashterminal-related-command)
-3.  [Permission related commands](#permission-related-commands)
+1.  [Common commands](#common-commands)
+2.  [Bash/Terminal commands](#bashterminal-command)
+3.  [Permission commands](#permission-commands)
 4.  [APT(Package manager) commands](#apt-package-manager-commands)
 5.  [Tar commands](#tar-commands)
 6.  [Grep commands](#grep-commands)
 
-# General commands
+# Common commands
 
 #### ➤ Watch present directory
 
@@ -277,7 +277,7 @@ Ex: `alias p="pwd"`
 
 `unalias <alias_name>`
 
-# Bash/Terminal related command
+# Bash/Terminal command
 
 #### ➤ Know your bash version
 
@@ -334,7 +334,7 @@ Ex: `alias p="pwd"`
 >
 > > `echo $PATH`
 
-# Permission related commands
+# Permission commands
 
 #### ➤ Make a file executable
 
